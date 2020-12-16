@@ -1,0 +1,31 @@
+.question-button:hover{
+    background-color: #FFDA00;
+    color: #000000;
+}
+
+.button:hover{
+    background-color: #FFDA00;
+    color: #FFFFFF;
+}
+
+.list-link:hover{
+    background-color: #FFDA00;
+    color: #FFFFFF;
+}
+
+.more-info_link:hover{
+    background-color: #FFFFFF;
+    color: #FFDA00;
+}
+.dropdown-link:hover{
+    background-color:#CAA400;
+}
+
+.menu-link:hover{
+    background-color: #FFDA00;
+    color: #FFFFFF;
+}
+
+a:focus{
+    outline: none;
+}
